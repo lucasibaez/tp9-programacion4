@@ -1,0 +1,17 @@
+Archivo: src/data/artistas.json
+
+Pegás exactamente el JSON que te mandó el profesor.
+
+Ejemplo:
+
+[
+  {
+    "id": 1,
+    "nombreArtistico": "Coldplay",
+    "pais": "Reino Unido",
+    "genero": "Rock",
+    "codigoGenero": "ROC"
+  }
+]
+
+y seguís hasta el artista 40.
